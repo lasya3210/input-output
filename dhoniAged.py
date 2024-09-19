@@ -9,4 +9,7 @@ Enter the age:
 35
 Age of Dhoni is 35
 ...
+  a=int(input())
+print("Age of Dhoni is",a)
+
   
